@@ -18,7 +18,7 @@ REQUIRED_PKGS = ['numpy >= 1.20',
                  'matplotlib >= 3.3.4',
                  'seaborn >= 0.11.2',
                  'PyQt5',
-                 'sklearn'
+                 'scikit-learn'
                  ]
 
 setup(
